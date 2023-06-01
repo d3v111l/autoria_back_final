@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\autoria_back.props" />
+</Project>
